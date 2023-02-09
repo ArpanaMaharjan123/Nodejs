@@ -33,8 +33,4 @@ addNewItem().then(response =>{
     console.log("err ===")
 });
 
-function sum(){
-    console.log("K cha");
-}
 
-sum();
