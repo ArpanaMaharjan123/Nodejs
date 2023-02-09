@@ -32,3 +32,9 @@ addNewItem().then(response =>{
 }).catch((err)=>{
     console.log("err ===")
 });
+
+function sum(){
+    console.log("K cha");
+}
+
+sum();
